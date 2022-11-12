@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>{MY NAME's} Website!</title>
+    <title>Black Joy Spa & Salon
   </head>
   <body>
-	Hello My Name is {Florkenthia} I uploaded this on {11/10/22}
+	Hello My Name is {Florkenthia} I uploaded this on {11/11/22}
   </body>
 </html>
