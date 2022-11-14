@@ -1,5 +1,5 @@
 :root{
-    --transition: all 0.7s ease;   /* background and padding will transition, 0.7s delay before start,start slow then fast end slow */
+    --transition: all 0.7s ease;   
     --yellow:#42d1f9 ;
     --dark: black;
 }
